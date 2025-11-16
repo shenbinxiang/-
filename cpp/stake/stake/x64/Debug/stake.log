@@ -1,0 +1,4 @@
+﻿  stake.cpp
+C:\Users\Lenovo\Desktop\cpp\stake\stake.cpp(66,14): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\cpp\stake\stake.cpp(46,1): warning C4715: “Pop”: 不是所有的控件路径都返回值
+  stake.vcxproj -> C:\Users\Lenovo\Desktop\cpp\stake\x64\Debug\stake.exe

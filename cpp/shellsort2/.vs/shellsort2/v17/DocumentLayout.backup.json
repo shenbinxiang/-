@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u4EE3\u7801\u6587\u4EF6\\cpp\\shellsort2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{848F6947-CD22-4CE0-A315-8BCEC1C8DF01}|shellsort2.vcxproj|D:\\\u4EE3\u7801\u6587\u4EF6\\cpp\\shellsort2\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{848F6947-CD22-4CE0-A315-8BCEC1C8DF01}|shellsort2.vcxproj|solutionrelative:\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\u6587\u4EF6\\cpp\\shellsort2\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "\u6E90.cpp",
+              "ToolTip": "D:\\\u4EE3\u7801\u6587\u4EF6\\cpp\\shellsort2\\\u6E90.cpp*",
+              "RelativeToolTip": "\u6E90.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-29T13:09:17.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
